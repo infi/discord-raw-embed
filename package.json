@@ -1,0 +1,27 @@
+{
+  "name": "discord-raw-embed",
+  "version": "0.1.1",
+  "description": "Builder for Discord embed objects",
+  "main": "entry.js",
+  "scripts": {
+    "test": "ava entry.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infi/discord-raw-embed.git"
+  },
+  "keywords": [
+    "discord",
+    "embed",
+    "builder"
+  ],
+  "author": "Infi",
+  "license": "BSL-1.0",
+  "bugs": {
+    "url": "https://github.com/infi/discord-raw-embed/issues"
+  },
+  "homepage": "https://github.com/infi/discord-raw-embed#readme",
+  "devDependencies": {
+    "ava": "^3.14.0"
+  }
+}
